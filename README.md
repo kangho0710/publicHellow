@@ -38,7 +38,7 @@
  - summernote를 사용하여 게시글 작성, 수정을 구현하되 이미지 업로드의 경우 외부경로를 따로 잡아주어 DB에 url로 등록되도록 설정
  - Https설정 : config - HttpConfig
 
-4. 용어정의
+4. 용어정의(
  1) Board
   - 게시판
   - List : 게시판 리스트
